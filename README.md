@@ -1,4 +1,4 @@
-Node-Proj
+easy-proj
 ================
 提供JS版本使用简单的Proj方法.
 
