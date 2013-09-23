@@ -1,6 +1,6 @@
 Node-Proj
 ================
-The Node version of proj4.
+提供JS版本使用简单的Proj方法.
 
 
 ## 目标
@@ -9,9 +9,11 @@ The Node version of proj4.
 * 使用简单
 * 测试全面
 * 文档全面, 清楚
+* 注释清楚
+* 考虑支持Node, AMD, 浏览器
 
 
-## relate module
+## 相关模块
 
 * [proj4js](https://npmjs.org/package/proj4js)
 * [proj4](https://npmjs.org/package/proj4)
